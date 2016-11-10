@@ -2,6 +2,7 @@ body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   background-color: black;
+    color:white;
 }
 
 header {
@@ -119,10 +120,15 @@ footer {
     text-decoration: none;    
 }
 
+.rcc{
+    color: white;
+}
+
+/*
 .youtubelink:hover {
   background-color: Gold;
   text-decoration: none;
-}
+}*/
 
 /* Dropdown Button */
 .dropbtn {
