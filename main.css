@@ -2,7 +2,6 @@ body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   background-color: black;
-    color:white;
 }
 
 header {
@@ -124,6 +123,13 @@ footer {
     color: white;
 }
 
+#rcc{
+    color: red;
+}
+
+#rccpg{
+    color: green;
+}
 /*
 .youtubelink:hover {
   background-color: Gold;
