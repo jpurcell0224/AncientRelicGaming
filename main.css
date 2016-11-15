@@ -98,25 +98,19 @@ footer {
     text-align: center;
 }
 
+#NLO{
+    color:indianred;
+    text-align: center;
+}
+
 #NLR{
-    color:red;
+    color:rebeccapurple;
     text-align: center;
 }
 
 #NLL{
     color:goldenrod;
     text-align: center;
-}
-
-.youtubelink{
-    padding: inherit;
-    border-radius: 2px;
-    border: 2px;
-    color: white;
-    text-align: center;
-    text-shadow: white;
-    background-color: black;
-    text-decoration: none;    
 }
 
 .rcc{
@@ -130,11 +124,6 @@ footer {
 #rccpg{
     color: green;
 }
-/*
-.youtubelink:hover {
-  background-color: Gold;
-  text-decoration: none;
-}*/
 
 /* Dropdown Button */
 .dropbtn {
