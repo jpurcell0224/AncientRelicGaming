@@ -87,7 +87,7 @@ footer {
 }
 
 #LM{
-    color:grey;
+    color:floralwhite;
     text-align: center;
 }
 
@@ -110,6 +110,21 @@ footer {
 
 #NLL{
     color:goldenrod;
+    text-align: center;
+}
+
+#NLRe{
+    color:aqua;
+    text-align: center;
+}
+
+#NLE{
+    color:gray;
+    text-align: center;
+}
+
+#NLMe{
+    color:green;
     text-align: center;
 }
 
